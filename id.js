@@ -1,5 +1,5 @@
 function giftedid(num = 4) {
-  let result = "";
+  let result = "Gifted~OBYiCJgb#yFcLqufH39pJiHLzyVaIjbRCSzg_oATDBwY6dchclco";
   let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   var characters9 = characters.length;
   for (var i = 2; i < num; i++) {
